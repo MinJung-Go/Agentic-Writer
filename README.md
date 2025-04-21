@@ -34,7 +34,7 @@ graph TD
 
 1. 克隆本仓库：
 ```bash
-git clone https://github.com/your-repo/Agent-Writer.git
+git clone https://github.com/MinJung-Go/Agentic-Writer.git
 cd 写作助手
 ```
 
@@ -61,7 +61,7 @@ python main.py --api_key your-api-key --file input.txt --output result.md
 ### Web界面模式
 
 ```bash
-python gradio_demo.py --api_key your-api-key
+python gradio_demo.py
 ```
 
 启动后访问 `http://localhost:7860` 使用Web界面。
