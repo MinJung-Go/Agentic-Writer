@@ -1,4 +1,4 @@
-# 写作助手 - AI Blog生成代理 (Agent Writer. Code by Zulu)
+# 写作助手 - AI Blog生成代理 (Agentic Writer. Code by Zulu)
 
 一个基于多Agent架构的AI博客文章生成系统，能够根据参考文本自动生成结构完整、内容丰富的博客文章。并给出插图建议。
 
