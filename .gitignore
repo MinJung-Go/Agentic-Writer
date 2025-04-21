@@ -1,0 +1,9 @@
+**/__pycache__
+**/__trash__
+**/data
+**/.files
+.vscode
+.chainlit
+.env
+logs/*
+nohup.out
